@@ -51,8 +51,8 @@ def fith_task(m_cleanData):
             libaryStudentListBad.append(m_cleanData[i][0])
     print(libaryStudentListBad)
     libaryStudentList = []
-    for i in range(len(libaryStudentList)):
-        for j in range(len())
+    for i in range(len(libaryStudentListBad)):
+       if libaryStudentListBad[i] != libaryStudentList
 
 cleanData = clean_up()
 second_task(cleanData)
